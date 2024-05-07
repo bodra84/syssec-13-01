@@ -24,6 +24,7 @@
 ### Решение 1
 
 Разрешены следующие сетевые службы:
+
   PORT     STATE SERVICE
 * 21/tcp   open  ftp
 * 22/tcp   open  ssh
