@@ -53,7 +53,7 @@
 Были обнаружены следующие уязвимости:
 1. [vsftpd 2.3.4 - Backdoor Command Execution](https://www.exploit-db.com/exploits/49757). 
 2. [OpenSSH < 7.7 - User Enumeration (2)](https://www.exploit-db.com/exploits/45939). 
-3. 
+3. [MySQL 5.0.x - IF Query Handling Remote Denial of Service](https://www.exploit-db.com/exploits/30020).
 
 ---
 ### Задание 2
